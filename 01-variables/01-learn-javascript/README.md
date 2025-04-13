@@ -7,7 +7,7 @@ It moves quickly through fundamental concepts like variables, functions, and pri
 
 ---
 
-## 📘 What You’ll Learn
+## What You’ll Learn
 
 - How to write JavaScript code using `console.log()`
 - How to output text to the browser console
@@ -15,14 +15,14 @@ It moves quickly through fundamental concepts like variables, functions, and pri
 
 ---
 
-## 💻 Project Example
+## Project Example
 
 In this course, we’ll be building a pretend project called **Textio**, a SaaS tool for sending SMS to users.  
 The lessons will guide you through writing and testing code in your browser, and occasionally using the CLI on your local machine.
 
 ---
 
-### 📌 Explanation of Key Terms:
+### Explanation of Key Terms:
 
 - **Pretend project**: A fake project made just for learning and practicing. It’s not real, but it helps you learn how to build real things.
 
