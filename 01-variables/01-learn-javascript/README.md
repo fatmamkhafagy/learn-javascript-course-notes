@@ -38,4 +38,4 @@ The lessons will guide you through writing and testing code in your browser, and
 
 ---
 
-> 🧠 This intro helps you understand the goal of the course and what you’ll be working on in the coming lessons.
+>  This intro helps you understand the goal of the course and what you’ll be working on in the coming lessons.
