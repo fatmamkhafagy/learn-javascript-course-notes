@@ -22,11 +22,9 @@ Variables to define:
 ##  You Will Practice:
 - **Declaring variables with `var`** → Telling the computer "Hey, I'm going to use a new variable."
 - **Assigning values of correct types** → Giving your variables the right kind of value (string, number, etc.).
-- **Using `typeof` to verify types** → typeof tells you what kind of value is inside your variable.
-
-     For example, if you do typeof "hello", it will say "string".
-
-     It helps you make sure you gave the right type of value.
+- **Using `typeof` to verify types** → typeof tells you what kind of value is inside your variable.  
+     For example, if you do typeof "hello", it will say "string".  
+     It helps you make sure you gave the right type of value.  
 
 
 
