@@ -1,3 +1,6 @@
+// 📁 This file contains the example code from Chapter 1 - Lesson 01 (Console Output)
+// Feel free to test it in your browser to see how console.log works in action.
+
 // Chapter 1 - Lesson 01: Learn JavaScript (for Developers)
 // Topic: Console Output
 
