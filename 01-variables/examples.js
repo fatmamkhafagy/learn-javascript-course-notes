@@ -11,5 +11,5 @@
 // Expected Output:
 // Starting Textio server...
 
+// 💡 Hint: Open your browser's developer tools (usually F12) to see the result in the Console tab.
 console.log("Starting Textio server...");
-
