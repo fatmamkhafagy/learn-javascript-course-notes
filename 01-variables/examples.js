@@ -11,5 +11,9 @@
 // Expected Output:
 // Starting Textio server...
 
-// 💡 Hint: Open your browser's developer tools (usually F12) to see the result in the Console tab.
+// 💡 Hint: To see the result, open your browser's Developer Console:
+// - On Windows: Press F12 or Ctrl + Shift + I
+// - On macOS: Press Command + Option + I
+// - Or: Right-click anywhere on the page and select "Inspect", then go to the "Console" tab
+
 console.log("Starting Textio server...");
