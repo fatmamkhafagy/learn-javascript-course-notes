@@ -24,13 +24,18 @@ The lessons will guide you through writing and testing code in your browser, and
 
 ### 📌 Explanation of Key Terms:
 
-- **Pretend project**: A fake or simulated project made for learning and practice purposes.
-- **Textio**: The fictional app you'll work on in this course. It's meant to mimic a real-life SMS service tool.
-- **SaaS (Software as a Service)**: A software delivery model where the software is hosted online and accessed via a web browser.
-- **Sending SMS**: The feature of delivering text messages to users' phones.
-- **Writing and testing code in your browser**: You'll be using tools like the browser’s Developer Console to write JavaScript and test it live.
-- **CLI (Command Line Interface)**: A tool like Terminal or Command Prompt that allows you to run commands and interact with files and code on your local machine.
+- **Pretend project**: A fake project made just for learning and practicing. It’s not real, but it helps you learn how to build real things.
+
+- **Textio**: The example app used in this course. It’s made-up, but it works like a real tool that sends text messages (SMS) to users.
+
+- **SaaS (Software as a Service)**: This means the software is used online, through a web browser. You don’t need to install anything — it runs on the internet.
+
+- **Sending SMS**: Sending short text messages to people’s phones using code.
+
+- **Writing and testing code in your browser**: You’ll write JavaScript code directly in your browser, and see the results right away — usually in the Developer Console.
+
+- **CLI (Command Line Interface)**: A black screen (like Terminal or Command Prompt) where you type commands to control your computer and run your code.
 
 ---
 
-> 📂 This file is part of the `01 - Learn JavaScript (for Developers)` folder in Chapter 1 - Variables.
+> 🧠 This intro helps you understand the goal of the course and what you’ll be working on in the coming lessons.
