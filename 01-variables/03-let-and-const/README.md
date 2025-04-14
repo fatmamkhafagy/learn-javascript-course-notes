@@ -143,3 +143,17 @@ user = { name: "Laila" } // ❌ Error – can't reassign the object
 let score = 10;
 score = 20; // ✅ Allowed
 ```
+
+---
+### Real-life Analogy
+- Think of `const` like a locked box:
+You can open the box and change what's inside (if it's an object or array),
+but you can’t throw away the box and replace it with a new one.
+- On the other hand, `let` is like an open basket:
+You can take out the content and put something totally different anytime.
+- But!
+If the `const` holds a primitive value (like a number or a string),
+you cannot even open the box or change what's inside – it's completely locked!
+
+
+
