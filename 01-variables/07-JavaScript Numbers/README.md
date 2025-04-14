@@ -49,4 +49,28 @@ console.log(typeof 5.5); // "number"
 ```
 Both will return "number".
 
+---
+
+### Extra Notes
+#### 1. NaN and Infinity are also number types 
+In JavaScript, even when you get weird results like NaN or Infinity, they are still treated as number type!
+- NaN (Not a Number) appears when doing invalid math, like dividing a word by a number.
+- Infinity appears when dividing a number by 0.
+#### Example:
+```js
+console.log(typeof NaN);      // "number"
+console.log(typeof Infinity); // "number"
+```
+---
+
+#### 2. Checking if a number is an integer
+You can use the built-in method Number.isInteger() to check whether a value is an integer (whole number) or not.
+
+#### Example:
+```js
+console.log(Number.isInteger(5));   // true ✅
+console.log(Number.isInteger(5.5)); // false ❌
+```
+---
+Even though both values are of type number, this method helps you distinguish between whole numbers and decimals.
 
