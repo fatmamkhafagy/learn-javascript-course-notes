@@ -24,8 +24,17 @@ console.log("Area of the rectangle is:", area);
 
 /*
   You can also use multi-line comments
-  to temporarily disable code:
+  to temporarily disable code.
+  This is helpful when you want to test something
+  or temporarily ignore a part of the code
+  without deleting it.
+
+  Reasons to disable code temporarily:
+  - To test code without deleting important parts.
+  - To temporarily stop certain lines if they’re not needed at the moment.
+  - To understand which parts of the code affect the output.
 */
 
 // let age = 25;
 // console.log("User age is:", age);
+
