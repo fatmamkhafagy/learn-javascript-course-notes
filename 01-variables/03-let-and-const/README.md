@@ -119,7 +119,7 @@ So the object stays the same, but you can edit what’s inside.
 
 ---
 
-### 🧩 Summary Table (let vs const)
+### Summary Table (let vs const)
 
 | Feature / Type           | `const` (object/array)      | `const` (primitive)        | `let`                       |
 |--------------------------|-----------------------------|-----------------------------|-----------------------------|
@@ -128,6 +128,7 @@ So the object stays the same, but you can edit what’s inside.
 | Use case                 | Default for objects/arrays   | Default for fixed values    | Use when value changes      |
 
 ----
+### Example:
 ```js
 // const primitive
 const name = "Sara";
