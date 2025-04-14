@@ -21,7 +21,7 @@ if (true) {
 }
 console.log(message); // Works! Even though it was inside the if block!
 ```
-Explanation:
+**Explanation:**
 Even though message was declared inside the if, it "leaks" outside because var is scoped to the whole function or global scope.
 
 ---
