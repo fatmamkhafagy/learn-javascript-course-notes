@@ -48,7 +48,7 @@ console.log(greeting); // ❌ ReferenceError
 - `const` is block-scoped.  
 - The value cannot be reassigned.
 - You should use const by default unless you know the value will change.
-- 
+  
   ---
 ### Summary
 - `let`: block-scoped, value can be reassigned.  
