@@ -28,3 +28,9 @@ Used for longer explanations or to temporarily disable blocks of code. Enclosed 
 - Use comments to explain why something is done, not just what is done.
 - Avoid over-commenting obvious code.
 - Keep comments updated as the code changes.
+- You can temporarily disable lines of code using comments when testing or debugging.
+
+**Common reasons to disable code temporarily:**
+- To test code without deleting important parts.
+- To temporarily stop certain lines if they’re not needed at the moment.
+- To understand which parts of the code affect the output.
