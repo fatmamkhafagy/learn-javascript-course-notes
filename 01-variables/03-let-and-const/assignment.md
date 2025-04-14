@@ -38,7 +38,7 @@ console.log("messageText:", messageText);
 
 ---
 
-### Solution (Spoiler Alert!)
+### Solution 
 ```js
 let messageText = "Welcome to Textio!"; // This variable is scoped to the outer block
 const isBirthday = true; // We use const here because this value doesn't change
