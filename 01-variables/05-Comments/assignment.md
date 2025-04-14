@@ -1,10 +1,10 @@
 # Assignment - Lesson 05: Comments in JavaScript
 
-## 🧠 Task
+## Task
 
 The new intern on the team messed up their documentation comment. Your job is to fix the comment so that it does **not include the actual code**, only the explanation.
 
-## 🔧 Fix the comment below:
+## Fix the comment below:
 
 Current version (incorrect):
 
