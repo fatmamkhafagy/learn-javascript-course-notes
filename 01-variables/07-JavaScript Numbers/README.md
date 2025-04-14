@@ -37,8 +37,8 @@ console.log(typeof 5.5); // "number"
 ```
 ---
 ### Summary
-In JavaScript, there’s no such thing as “integers” or “floating-point numbers” as separate types like in other languages.
-All numbers are treated as the same type: number — whether it's 5 or 5.5, the type is the same.
+- In JavaScript, there’s no such thing as “integers” or “floating-point numbers” as separate types like in other languages.
+- All numbers are treated as the same type: number — whether it's 5 or 5.5, the type is the same.
 
 You can perform operations like addition, subtraction, multiplication, and division normally, and the result will always be of type number.
 
