@@ -74,3 +74,53 @@ console.log(Number.isInteger(5.5)); // false ❌
 ---
 Even though both values are of type number, this method helps you distinguish between whole numbers and decimals.
 
+---
+
+### Quick Recap
+In JavaScript, there’s only one number type — called number.
+
+There’s no difference between whole numbers and decimals. They’re both just number.
+
+### Examples:
+5 → number ✅
+
+5.5 → number ✅
+
+NaN → still a number ✅
+
+Infinity → also a number ✅
+
+### Basic Operators:
++ → addition
+
+- → subtraction
+
+* → multiplication
+
+/ → division
+
+% → modulus (gives the remainder after division)
+
+### Type Check:
+Use typeof to check the type:
+```js
+console.log(typeof 10); // "number"
+```
+---
+### Check if a value is an integer:
+Use Number.isInteger():
+
+```js
+Number.isInteger(10);   // true ✅
+Number.isInteger(5.75); // false ❌
+```
+---
+### Bonus Function: Check whole vs decimal
+```js
+function isWholeNumber(num) {
+  return Number.isInteger(num) ? "Whole Number" : "Decimal";
+}
+```
+
+
+
