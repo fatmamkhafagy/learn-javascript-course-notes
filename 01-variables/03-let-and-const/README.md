@@ -49,9 +49,9 @@ The value cannot be reassigned.
 
 You should use const by default unless you know the value will change.
 ### Summary
-let: block-scoped, value can be reassigned.  
-const: block-scoped, value cannot be reassigned.  
-var: avoid using it – it's function-scoped and allows redeclaration.
+-let: block-scoped, value can be reassigned.  
+-const: block-scoped, value cannot be reassigned.  
+-var: avoid using it – it's function-scoped and allows redeclaration.
 
 ### Best Practice:
 Use const by default. Use let only when you plan to reassign the variable later. Avoid var completely in modern JavaScript.
