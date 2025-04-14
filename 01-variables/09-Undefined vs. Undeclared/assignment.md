@@ -1,6 +1,6 @@
 # Assignment: Declared but Undefined
 
-Your task is to make sure the following variables are declared, but not assigned a value. This will prevent `ReferenceError`s.
+Your task is to make sure the following variables are declared, but not assigned a value. This will prevent `ReferenceErrors`.
 
 ##  Starter Code
 
