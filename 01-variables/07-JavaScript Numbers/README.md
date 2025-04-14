@@ -91,11 +91,11 @@ NaN → still a number ✅
 Infinity → also a number ✅
 
 ### Basic Operators:
-+ → addition
++→ addition
 
-- → subtraction
+-→ subtraction
 
-* → multiplication
+*→ multiplication
 
 / → division
 
