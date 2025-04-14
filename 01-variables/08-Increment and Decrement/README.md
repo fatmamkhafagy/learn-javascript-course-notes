@@ -26,5 +26,3 @@ console.log(bootdevCourseRating); // 10
 
 bootdevCourseRating -= 5;
 console.log(bootdevCourseRating); // 5
-
----
