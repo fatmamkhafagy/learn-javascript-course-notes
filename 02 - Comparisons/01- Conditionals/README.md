@@ -1,29 +1,31 @@
-##  Comparisons
+##  Title: Conditionals
 
-> Learn how to compare values and write conditional statements in JavaScript.
-
----
-
-###  In Simple Terms:
-
-This lesson teaches you how to **compare values**, like checking if one thing is greater than another, or whether two things are equal.
-
-You’ll also learn how to write **conditional statements**, which are instructions like:
-
-> "If this happens, do this... otherwise, do something else."
+> In programming, "Conditionals" are also known as "if statements" or decision-making statements.
 
 ---
 
-###  What You’ll Learn:
+###  What This Lesson Is About
 
-- How to use comparison operators like `===`, `<`, `>=`, and more  
-- How to make your code take different actions depending on different conditions  
-- Example: If the password is correct → log the user in. If not → show an error message.
+This lesson will teach you how to write code that **performs certain actions only if a specific condition is true**.
+
+In other words, you're telling the computer:
+
+> "If something happens, do this. If not, do something else."
 
 ---
 
-###  Why This Lesson Matters:
+###  What Does "Conditionals" Mean?
 
-- You'll understand **how programs make decisions**
-- You'll start writing code that is dynamic and smart, not just a fixed set of instructions
+Simply put, it's a way for your code to **make decisions** based on what's happening in your program.
 
+For example:
+- If the user enters the correct password → log them in
+- If not → show an error
+
+---
+
+###  Why Are Conditionals Important?
+
+Because they help you write **smart, dynamic code** that responds to situations — not just a fixed script that runs the same way every time.
+
+Any game, website, or app in the world uses conditionals at its core.
