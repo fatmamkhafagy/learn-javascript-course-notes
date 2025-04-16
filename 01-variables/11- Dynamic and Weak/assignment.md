@@ -24,6 +24,9 @@ let totalReceivedMessages = "50";  // This is a string, so adding it to a number
 // Step 3: Solution - Convert totalReceivedMessages to a number
 totalReceivedMessages = Number(totalReceivedMessages);  // Convert the string "50" to the number 50 using Number()
 
+// OR alternatively, you can define totalReceivedMessages as a number directly:
+let totalReceivedMessages = 50;  // Directly declare it as a number, no need for type conversion
+
 // Step 4: Calculate totalMessages using the corrected value for totalReceivedMessages
 const totalMessages = totalSentMessages + totalReceivedMessages;  // Now the result will be 100 + 50 = 150
 
@@ -35,7 +38,7 @@ console.log("Total messages:", totalMessages);  // Output: 150 (Correct sum afte
 ---
 ## Explanation of the Code:
 1- Problem: The initial issue is that `totalReceivedMessages` is a string (`"50"`), which leads to string concatenation when added to `totalSentMessages` (a number). This results in the incorrect output of `"10050"` instead of a correct sum.  
-2- Solution: We used `Number()` to convert `totalReceivedMessages` to a number so the addition will be correct.  
+2- Solution: We used `Number()` to convert `totalReceivedMessages` to a number so the addition will be correct. Alternatively, instead of treating `totalReceivedMessages` as a string, you could directly declare it as a number, i.e., `let totalReceivedMessages` = 50;, which avoids the need for conversion.  
 3- Expected Output After Fix: 
   - Total sent messages: `100`
   - Total received messages: `50`
